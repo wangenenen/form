@@ -1,0 +1,18 @@
+.weibu{
+
+
+    background-size: cover;
+
+    -webkit-background-size: cover;
+
+    -o-background-size: cover;
+
+    background-position: center 0;
+}
+.huantouming{
+    background-color: rgba(255,255,255,0.5);
+    font-family: "Adobe 宋体 Std L";
+    font-size: 16px;
+    line-height: 2em;
+
+}
